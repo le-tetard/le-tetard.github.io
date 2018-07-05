@@ -181,7 +181,7 @@ puisque ma passagère et moi sommes ensemble. *ouai, l'histoire du constat sur u
 accident, c'est hasbeen.* Au moins question confiance, il n'y a pas trop de question
 à se poser.
 
-![Ma passagère](http://i19.photobucket.com/albums/b185/luckylucvfr/Joe%20Bar%20Team/T12001.jpg){: .align-center}
+![Ma passagère](https://i19.photobucket.com/albums/b185/luckylucvfr/Joe%20Bar%20Team/T12001.jpg){: .align-center}
 
 [^1]: [https://www.youtube.com/watch?v=fBRQnqwHgcg](https://www.youtube.com/watch?v=fBRQnqwHgcg)
 [^2]: Merci aux copains
