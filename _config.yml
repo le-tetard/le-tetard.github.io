@@ -194,6 +194,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   
   # _pages
   - scope:
@@ -206,3 +207,4 @@ defaults:
         comments: false
         share: true
         related: false
+        classes: wide
