@@ -4,6 +4,7 @@ excerpt: "Mon premier road trip dans les Alpes, en solo avec une tente, un sac d
 categories: Roadtrip
 tags: [roadtrip, alpes 2018]
 header:
+  teaser: /assets/images/overlays/mountain-trip-alps.jpg
   overlay_image: /assets/images/overlays/mountain-trip-alps.jpg
   og_image: /assets/images/overlays/mountain-trip-alps.jpg
 ---
