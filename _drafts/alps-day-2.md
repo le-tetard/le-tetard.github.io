@@ -3,17 +3,28 @@ title: Alpes 2018 - Jour 2 - Un motard dans la ville
 excerpt: Saint Tropez à Tende, journée tendue, interminable, un motard dans la ville.
 ---
 
-09/09/2018, levé 0530, odo 72787
+Il fait encore nuit et il doit être autour des 5h30 lorsqu'une machine inconnue fait du bruit et me réveille. Puis s'arrête de nouveau... Et repart. N'arrivant plus à me rendormir, je me lève, plie les affaires (il m'aura fallu deux tentatives pour la tente et un oubli de tour de cou dans le duvet) puis je pars pour le levé de soleil ! Petit tour dans la ville pour voir s'il y a de belles voitures. C'est finalement un paon que je vais croiser !
 
-Levé à cause d'une machine qui fait du bordel. Pas possible de me rendormir, pliage duvet et tente. Go pour lever de soleil !
+Après cet interlude, le programme du jour s'annonce bien : Grasse, le col de Vence, Monaco, Menton et Tende. Mais avant l'effort, le réconfort. On est à Saint-Tropez et le petit déj ne pouvait pas faire l'impasse sur la fameuse tropésienne ! Repas le plus cher de tous le séjour avec ses 11,5 € de crème, café et pain au chocolat. Mais ça vallait le coup !
 
-1h plus tard et 2 tentatives de pliage de tente plus tard tout est empaqueté, pilote compirs. Mais… Il est où mon tour de cou ?! Dans la capuche du duvet ! le plus simple à plier…
-Petit tour jusqu'à la plage pour lever de soleil détour pour trouver ma tropézienne
-Vu un paon et hotel 5 étoiles mais que des pauvres : plus de mercedes que de Porsche.
+* Photo levé soleil : Bonjour !
+* Photo paon : Au détour du centre ville.
+* Photo petit dej : Un petit dej de champion !
+* Photo yacht : Vue depuis ma terrasse perso.
 
-Tropézienne + pain choc + café allongé : 11.5 mais serveuse un peu rude, presque comme hier. Sans doute ces riches qui prennent de haut dont je fais l'expérience ou pas réveillée ? Dégustation au vieux port, indécence, définition [photo yacht]
+Direction Le Muy pour la première étape. Après être sorti de la ville et avoir traversé plusieurs petits villages, je me retrouve sur une voie séparée par un terre plein (90 POWER !!!) et je loupe la toute petite route perpendiculaire. Après avoir réparé cette première erreur de parcours (il faut bien se réveiller quand même...), la route est trop classe. Ça a brûlé il n'y a pas très longtemps mais le point de vue reste génial !
 
-Avant l'effort, le réconfort puis got vers l'aventure et au delà !
+<!-- 09/09/2018, levé 0530, odo 72787 -->
+
+<!-- Levé à cause d'une machine qui fait du bordel. Pas possible de me rendormir, pliage duvet et tente. Go pour lever de soleil ! -->
+
+<!-- 1h plus tard et 2 tentatives de pliage de tente plus tard tout est empaqueté, pilote compirs. Mais… Il est où mon tour de cou ?! Dans la capuche du duvet ! le plus simple à plier… -->
+<!-- Petit tour jusqu'à la plage pour lever de soleil détour pour trouver ma tropézienne -->
+<!-- Vu un paon et hotel 5 étoiles mais que des pauvres : plus de mercedes que de Porsche. -->
+
+<!-- Tropézienne + pain choc + café allongé : 11.5 mais serveuse un peu rude, presque comme hier. Sans doute ces riches qui prennent de haut dont je fais l'expérience ou pas réveillée ? Dégustation au vieux port, indécence, définition [photo yacht] -->
+
+<!-- Avant l'effort, le réconfort puis got vers l'aventure et au delà ! -->
 
 Direction le Muy, long et droit, plein de village. Voie séparée et tourne à droite invisible loupée donc demi tour puis  route au top ! Ça a brûlé il n'y a pas longtemps mais trop classe ! Puis Grasse, plein de villages sympa route sympa sur le papier mais 50 en moyenne : 50 en ville, hors ville 50 ou 70 car virages dangeureux + préserver les ferrari/porsche des riches et on prend soin des vieux. Extrêment long mais un régal pour les yeux. Interminable comme la section suivante.
 Visite express, on tourne un peu pour trouver le point de photo qu'il faut rejoindre à pied. Ça grimpe pas mal mais ça vallait plutôt le coup ! Ça sent bon dans la ville.
