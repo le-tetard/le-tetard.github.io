@@ -12,38 +12,39 @@ Après cet interlude, le programme du jour s'annonce bien : Grasse, le col de Ve
 * Photo petit dej : Un petit dej de champion !
 * Photo yacht : Vue depuis ma terrasse perso.
 
-Direction Le Muy pour la première étape. Après être sorti de la ville et avoir traversé plusieurs petits villages, je me retrouve sur une voie séparée par un terre plein (90 POWER !!!) et je loupe la toute petite route perpendiculaire. Après avoir réparé cette première erreur de parcours (il faut bien se réveiller quand même...), la route est trop classe. Ça a brûlé il n'y a pas très longtemps mais le point de vue reste génial !
+Direction Le Muy pour la première étape. Une super route avec de super virages et de supers paysages. Une terre rouge vif et la garigue autour. Tout ça juste pour moi ! Je me régale, il ne fait ni trop chaud, ni trop froid, c'est plus qu'idéal ! Puis vient rapidement Grasse et son parfum omniprésent et ses parfumeries colorées. J'envisageais de faire le musée mais la traversée de ville quasi ininterrompu me fatigue, je fais donc l'impasse dessus. Je m'accorde le point de vue tout de même.
 
-<!-- 09/09/2018, levé 0530, odo 72787 -->
+* Photo avec le rétro et V
+* Photo panorama terre rouge
+* Photo trompe l'œil de la maison
+* Photo panorama grasse
 
-<!-- Levé à cause d'une machine qui fait du bordel. Pas possible de me rendormir, pliage duvet et tente. Go pour lever de soleil ! -->
+À la suite de cette petite excursion, je m'engage dans les gorges du Loup, dans les quelles je retrouve des virages sympa… Mais non, j'arrive déjà au point d'arrêt suivant et les maisons jouxtant la route n'engagent pas à tourner la poignée, un peu comme hier en arrivant vers Saint-Tropez. <br>
+Mais quel point d'arrêt ! Une confiserie ! Et pas n'importe la quelle ! La [**confiserie Florian**](https://www.confiserieflorian.com/) ! Dont la visite est gratuite, donc indispensable. Les orangettes et citronnettes (comme les orangettes mais avec du citron, je sais pas s'il y a un nom officiel) ont un goût absolument indescriptible, il faut que tu ailles essayer ! &#128521; <!-- :wink: -->
 
-<!-- 1h plus tard et 2 tentatives de pliage de tente plus tard tout est empaqueté, pilote compirs. Mais… Il est où mon tour de cou ?! Dans la capuche du duvet ! le plus simple à plier… -->
-<!-- Petit tour jusqu'à la plage pour lever de soleil détour pour trouver ma tropézienne -->
-<!-- Vu un paon et hotel 5 étoiles mais que des pauvres : plus de mercedes que de Porsche. -->
+* Photos confiserie
+* Photo vallée
 
-<!-- Tropézienne + pain choc + café allongé : 11.5 mais serveuse un peu rude, presque comme hier. Sans doute ces riches qui prennent de haut dont je fais l'expérience ou pas réveillée ? Dégustation au vieux port, indécence, définition [photo yacht] -->
+Après avoir quitté les lieux je retrouve la joie de ces virages et de ces habitation continues, avec quelques points de vue tout de même. Je fini par me retrouve sur une voie séparée par un terre plein (90 POWER !!!) et je loupe presque la toute petite route perpendiculaire à la grosse nationnale. Le genre d'intersection que seuls les habitués connaissent et que toi, quand tu arrives, tu regardes dans ton rétro en te disant "pourvu que derrière il voit que je vais tourner &#128591;<!-- :pray: -->". Le coin a brûlé il n'y a pas très longtemps mais le point de vue reste génial ! Nice dans le fond et l'inconnu de l'autre côté.
 
-<!-- Avant l'effort, le réconfort puis got vers l'aventure et au delà ! -->
+La route suit de nouveau son cours comme précédemment : des maisons, pas vraiment de quoi rouler. Je passe le col de Vence et la ville un peu plus bas dans la quelle j'étais censé m'arrêter également. La suite se passe au dessus de Nice : Aspremont, un petit village perché en haut d'un pic avec une vue imprenable. J'en profite pour manger un bout parce que mine de rien, ça fait un moment que je roule ! La descente qui s'ensuit est plutôt difficile, le manque d'hydratation a sans doute fortement joué dans cette histoire.
 
-Direction le Muy, long et droit, plein de village. Voie séparée et tourne à droite invisible loupée donc demi tour puis  route au top ! Ça a brûlé il n'y a pas longtemps mais trop classe ! Puis Grasse, plein de villages sympa route sympa sur le papier mais 50 en moyenne : 50 en ville, hors ville 50 ou 70 car virages dangeureux + préserver les ferrari/porsche des riches et on prend soin des vieux. Extrêment long mais un régal pour les yeux. Interminable comme la section suivante.
-Visite express, on tourne un peu pour trouver le point de photo qu'il faut rejoindre à pied. Ça grimpe pas mal mais ça vallait plutôt le coup ! Ça sent bon dans la ville.
+* Photo col de Vence
 
-Vient ensuite les gorges du loup. Enfin des virages sympas ! Mais avant, quelques villes et villages et… on est au pont du Loup avec la confiserie Florian ! La visite (gratuite) était obligatoire. J'ai hésité pour le souvenir mangeable : fruits confits principalement. J'ai opté pour des orangettes et citronettes (des zeste d'orange ou citron confits) je n'ose y toucher. Je découvrirai au retour que j'ai bien fait car c'est TROP BON ! Et j'aurais sans doute tout terminer avant la fin !
+Arrive enfin les environs de Monaco. Avant d'y accéder, il faut descendre la route de La Turbie qui se termine par sept magnifiques épigles. Pas par leur technicité mais plus par la vue. On arrive d'une zone montagneuse, où la vue est plutôt bouchée par les arbres ou la montagne et d'un coup, au virage, le paysage se découvre petit à petit sur le bleu du ciel et le calme de la mer en contre bas. D'un coup le sentiment de grandeur, un des rares moments excitant de la journée ! _Faute de place pour s'arrêter, le point de vue ne pourra pas être partagé ici_.
 
-On repart et qelques virages ssans ville \o/ Mais ça ne dure pas. On décale la pause de midi, pas faim, il est 12/13h.
-Descente vers Vence, POV au col de Vence mais on saute les photos de la ville j'en ai marre et pour descendre encore 50 de moyenne.
+Je vais rapidement passer Monaco, qui ne m'a pas vraiment laissé une bonne impression. On se roule plus ou moins dessus, les immeubles ont tendance à t'écraser aussi, ça m'a l'air plutôt difficile de s'orienter si on ne connaît pas ou qu'on ne sait pas où l'on va. Je pensais que les yacht de Saint-Tropez apartenaient à des riches. Et bien ici, c'est encore pire : ils mettent l'hélicptère sur leur yacht, devant l'hôtel cinq étoiles, **EUX** ! &#128526; <!-- :sunglasses: --> Petit détour par le fameux tunnel de la F1 quand même et passage à côté du jardin japonais dans le quel je ne m'arrêterai finalement pas non plus.
 
-Direction au dessus de Nice : Aspremont. Hyper classe 14h, j'ai faim et il faut faire une pause. Le seul banc à l'ombre est pris par un couple de cycliste, pas le choix, on se met juste à côté du monument au morts :-)
-Descente difficilement roulable et les muscles tirent de partout, sans doute un manque d'eau…
+* Photo ferrari/monaco
+* Photo tunnel F1
 
-Monaco ensuite, rebelotte pour l'atteindre, inroulable, c'est plus joli en photo. Mais une chose incroyable. En descendant depuis La Turbie, en attaquant le premier virage des lacets, tu as la visibilité maximale qui se découvre petit à petit sur la mer et le ciel bleu magnifique sans aucun arbre, coline ou voiture pour gêner la visibilité. Incroyable, sans doute le moment le plus agréable jusque là. Si tu crois être riche à Saint Trop, va à Monaco. Saint Trop p'tit joueurs, Monaco hélico sur le yacht devant l'hotel 5*. Improbable. Photo du tunnel de la F1 ! :D
-1 Porsche et une Ferrari se sont engagées en taquinant la zone rouge, c'était beau à l'oreille. Les F1, ça doit être trop bien ! Je voulais le jardin japonais, j'y suis passé à côté mais on zape, toujours marre de la ville interminable. Une ville à flanc de montagne qui arrive droit dans la mer ça donne des immeubles ultra haut avec de toutes petites rues voroleuses en bas et des ponts pour naviger entre les étages, très chaud et difficile à circuler. Dimanche, on a déjà oublité la date.
+Dernier point de visite : Menton. Toujours la même chanson pour l'atteidre donc je trace de la même façon après la pause récupération. Le GPS indique 1h30 pour 60km, ce qui me paraît quand même beaucoup. Direction Sospel où la route s'améliore grandement. La piste de cross permet une bonne nouvelle pause ainsi que le village devenu innexistant le long de la ligne maginot. Je m'attendais à ce que ce soit vide mais nous sommes dimanche, j'avais déjà oublié ! Le GPS indique 40km, 50 minutes. Il faut croire que je me traîne parce que c'est le temps que j'ai mis. Il faut dire qu'il y avait quelques virages quand même. Moins de maisons en revanche, donc plus de radards (un seul, remarqué le lendemain, je n'ai rien reçu dans la boîte aux lettres depuis).
 
-Menton [refrain], quelques photos, tien c'est marrant, le GPS indique 60km, 1h30… c'est improbable… Montée jusqu'à Sospel comme d'hab mais quand même point historique : ligne maginot. On s'attarde pas mais ça envoie du pâté maintenant (la route), on croise du moto cross que j'avais repéré en m'étant dit qu'il n'y aurait personne. Loupé, il y avait du monde !
-40km, 50min (véridique) pas trainté pourtant en roulant dans les jolies gorges à 80 parce que potentiellement il y a des radars (et j'ai bien fait, je l'ai remarqué au retour le lendemain). Je me suis régalé et je ne pensais déjà plus aux 50km/h que je me suis frappé toute la journée !
+* Photo cross
+* Photo ruine
+* Photo GPS
 
-Arrivée à Tende, on tente de parler avec un mec en BM parce qu'elle ressemblait à celle du Trophy avec ses tocollant. En fait non, le mec est espagnol et l'anglais n'est pas son fort. J'ai initié la conversation en demandant s'il savait s'il y avait un camping. Il m'a dit que oui en direction de Turini à 60km. Merci, mais… non… :-)
-Direction camping, bonne douche (de camping municipal, faut pas déconner, mais ça fait du bien), miam tranquille et les voisins allemand me prêtent même une chaise ! :-)
+Arrivé à Tende, je remarque une GS qui ressemble à une de celles du Trophy avec ses tocollants. Je m'essaye à la communication, c'est loupé, c'est un espagnol. J'ai pris allemand LV1 moi, l'anglais n'a pas été d'un grand secours. Direction ensuite le camping, la douche qui fait du bien et le miam. Les voisins allemands ont eu la bonté de me prêter une chaise, plutôt que de me laisser manger assis par terre. Je découvre également que la tente est plus spatieuse que la veille ! &#128514; <!-- :joy: -->
 
-18h30 au point de chute, 22h dodo, odo 73083
+Il s'agit donc de 296km interminables dus aux villes traversées, que j'ai rapidement oublié grâce aux derniers virages, grâce aux points de vues que je me suis réservés, grâce aux bons moments que j'ai passé et dont j'ai profité en intermitence.<br>
+Demain, ces quelques difficultés seront complètement oubliés, il s'agira du point d'orgue, de l'apogée de ce voyage !
