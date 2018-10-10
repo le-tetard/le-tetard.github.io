@@ -119,4 +119,4 @@ Le GPS indique 40km, 50 minutes. Il faut croire que je me traîne parce que c'es
 Arrivé enfin à Tende, je remarque une GS qui ressemble à une de celles du Trophy avec ses tocollants. Je m'essaye à la communication, c'est loupé, le propriétaire est espagnol. J'ai pris allemand LV1, moi et l'anglais n'a pas été d'un grand secours. Direction ensuite le camping, la douche qui fait du bien puis le miam. Les voisins allemands ont eu la bonté de me prêter une chaise, plutôt que de me laisser manger assis par terre. Je découvre également que la tente est plus spatieuse que la veille ! &#128514; <!-- :joy: -->
 
 Il s'agit donc de 296km interminables dus à la ville ininterrompue traversée, que j'ai rapidement oublié grâce aux derniers virages, grâce aux points de vues que je me suis réservés, grâce aux bons moments que j'ai passé et dont j'ai tout de même bien profité.<br>
-Demain, ces quelques difficultés seront complètement oubliés, il s'agira du point d'orgue, de l'apogée de ce voyage. Littéralement.
+Demain, ces quelques difficultés seront complètement oubliées, il s'agira du point d'orgue, de l'apogée de ce voyage. Littéralement.
