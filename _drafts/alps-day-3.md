@@ -3,15 +3,33 @@ title: Alpes 2018 - Jour 3
 excerpt: Le meilleur jour de la semaine ! Jour des jeux de mots !
 ---
 
-10/09/2018, levé 7h, odo 73083
+Aujourd'hui, étape de montagne, le rythme du levé tôt étant inné, c'est à 7h que je vais sortir du duvet, une heure plus tard le moteur sera démarré. Il faut que je pense à me prendre de veux chiffons pour la rosée matinale les prochaines fois. Une nettoyant casque et bulle serait un plus. Comme d'habitude, le petit dej au village et de quoi manger pour le midi évitera une pause supplémentaire, je ne savais pas où la faire de toute façon et essence pour la journée.<br>
+Je m'amuse à voir les petits aller à l'école, j'avais encore oublié quel jour nous étions, je pensais que tout le monde était en vacances moi ! J'écoute aussi les locaux, il parlent plus italien que français j'ai l'impression. Il y a également plus d'immatriculations italienne que française. Les voitures italienne devant se trouver quelques kilomètres plus bas vers Monaco sans doute.
 
-Penser à un chiffon pour la rosée du matin. Petit dej et pic nic au village.
-Prévison : descente gorges de la Roya avec les photos et essence puis montée dans les Alpes ! Enfin !
-On est quand même proche de l'Italie, tout le monde se dit 'Ciao !' et il y a presque plus de voitures immatriculées en Italie qu'en France. Ce sont juste les imatriculation, pas les voitures. Les voitures italiennes sont sanss doute plus à Nice ou Monaco actuellement.
+Le programme est simple aujourd'hui : virages, col, virages, paysages, col, paysages, col, virages. En gros. En quittant Tende, je me retourne la vue n'est pas si mal, première photo, je rattrape également les quelques unes que j'ai loupé hier.
 
-Descente vers Sospel par la route prise la veille. Je rattrappe les photos laissées de côté puis direction col de Turini qui donne le tourni par la RGA. Heureusement pas écouté l'espagnol hier pour le camping à cause de l'humidité, des virages, du froids que j'aurai eu et la difficulité à trouver un petit dej le matin !
-Sur la route, je me suis dit que les motards de l'époque de Napoléon ont dû s'éclater à l'époque où le goudron était neuf ! :joy: La route est plutôt dangereuse et j'ai oublié de compter les épingles. Route super sinon mais déçu par le col, pas de visibilité à cause des sapins. Tout le long on peut apercevoir la route vers la quelle on se dirige alors qu'elle est encore à plusieurs kilomètres devant !
-Redescente du col identique à la montée en terme de paysage, qualité de route et paysage. C'est plutôt fermé, pas trop de paysages à perte de vue mais on voit toujours la suite de la route en face.
+* Photo Tende
+* Photo gorges
+* Photo église
+
+Je repasse par Sospel, et commence mon ascension, par la **Route des Grandes Alpes** et le col de Turini. Il porte bien son nom, celui-là : la route qui y mène tourne et pas qu'un peu ! Un serpentin taillé sur le flanc de la montagne, lorsque cela a été nécessaire, les épingles prennent leur appui quelques dizaines de mètres plus bas pour monter d'un cran en altitude et reprendre le flac sans doute plus simple à travailler. La route est tellement sinueuse que l'on peut apercevoir les morceaux qui nous attendent de l'autre côté du "V" abyssal formé par les pentes. Absolument fantastique, les photos ne rendent pas justice.<br>
+Je ne peux m'empêcher de penser que les motards de l'époque avaient dû s'éclater lorsque le goudron étant encore bon. La route est de base plutôt dangeureuse : relativement étroite, à flanc de montagne, pas trop de quoi te rattraper si l'écart est trop important sur la droite. Mais en plus, je ne sais pas trop si elle tient bien, par endroit les services publics ont décidé de mettre quelques gravillons. À cette altitude. Avec cette humidité. Et j'imagine que la neige ne fait pas semblant de tomber lorsqu'elle tombe. Sourire amer. &#128560; <!-- :cold_sweat: --><br>
+Déjà arrivé au col, j'ai oublié de compter les épingles. Je suis plutôt déçu également, il n'y a pas grand chose à voir. Les sapins étant plus haut que moi et il n'y a pas d'endroit plus dégagé qu'un autre. La redescente est quasiment identique : la vue est plutôt bouchée par les pics, on voit toujours les morceaux de route plus loin. Le goudron un peu meilleur peut être.
+
+* Photo RGA
+* Photo abysse
+* Photo paneau col
+* Photo panorama non retouché
+
+<!-- 10/09/2018, levé 7h, odo 73083 -->
+
+<!-- Penser à un chiffon pour la rosée du matin. Petit dej et pic nic au village. -->
+<!-- Prévison : descente gorges de la Roya avec les photos et essence puis montée dans les Alpes ! Enfin ! -->
+<!-- On est quand même proche de l'Italie, tout le monde se dit 'Ciao !' et il y a presque plus de voitures immatriculées en Italie qu'en France. Ce sont juste les imatriculation, pas les voitures. Les voitures italiennes sont sanss doute plus à Nice ou Monaco actuellement. -->
+
+<!-- Descente vers Sospel par la route prise la veille. Je rattrappe les photos laissées de côté puis direction col de Turini qui donne le tourni par la RGA. Heureusement pas écouté l'espagnol hier pour le camping à cause de l'humidité, des virages, du froids que j'aurai eu et la difficulité à trouver un petit dej le matin ! -->
+<!-- Sur la route, je me suis dit que les motards de l'époque de Napoléon ont dû s'éclater à l'époque où le goudron était neuf ! :joy: La route est plutôt dangereuse et j'ai oublié de compter les épingles. Route super sinon mais déçu par le col, pas de visibilité à cause des sapins. Tout le long on peut apercevoir la route vers la quelle on se dirige alors qu'elle est encore à plusieurs kilomètres devant ! -->
+<!-- Redescente du col identique à la montée en terme de paysage, qualité de route et paysage. C'est plutôt fermé, pas trop de paysages à perte de vue mais on voit toujours la suite de la route en face. -->
 
 Direction la Tinée ensuite, toujours en suivant la RGA. Topissime montagnes rouges, quelques bukers dont un ouvert mais sale. La route est un billard, on ouvre. Isola, on bifurque vers Isola 2000 direction le col de la Lombarde, je reconnais là les belles routes Alpines. Il n'y a personne. En même temps, un lundi midi… Arrivée à 2350m, miam en Italie, histoire de dire.
 Beaucoup d'allemands qui m'ont l'air fort sympathiques. Je trinque à distance avec le serveur du bus snack :-)
