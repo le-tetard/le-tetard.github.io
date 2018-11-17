@@ -1,6 +1,12 @@
 ---
 title: Alpes 2018 - On atteint des sommets !
 excerpt: L'apogée du voyage, aujourd'hui tout est en grand, des paysages aux massifs, en passant par les vallées.
+categories: Roadtrip
+tags: [roadtrip, alpes 2018]
+header:
+  teaser: /assets/images/overlays/2018-11-19.jpg
+  overlay_image: /assets/images/overlays/2018-11-19.jpg
+  og_image: /assets/images/overlays/2018-11-19.jpg
 
 tende:
     - url: assets/images/posts/2018-11-19/tende.jpg
