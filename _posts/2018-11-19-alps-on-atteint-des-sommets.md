@@ -199,9 +199,7 @@ guillestre:
       title: "Une baignade bien méritée !"
 ---
 
-Aujourd'hui, étape de montagne, le rythm
-
-e du levé tôt étant inné, c'est à 7h que je vais sortir la tête, une heure plus tard le moteur est démarré. Il faut que je pense à me prendre de vieux chiffons pour la rosée matinale les prochaines fois. Un nettoyant casque et bulle serait un plus. La routine installée, je vais prendre le p'tit dej au village ainsi que de quoi manger pour le midi, ce qui évitera une pause supplémentaire, je ne savais pas où la faire de toute façon. Enfin, l'essence pour la journée et je suis parti !<br>
+Aujourd'hui, étape de montagne, le rythme du levé tôt étant inné, c'est à 7h que je vais sortir la tête, une heure plus tard le moteur est démarré. Il faut que je pense à me prendre de vieux chiffons pour la rosée matinale les prochaines fois. Un nettoyant casque et bulle serait un plus. La routine installée, je vais prendre le p'tit dej au village ainsi que de quoi manger pour le midi, ce qui évitera une pause supplémentaire, je ne savais pas où la faire de toute façon. Enfin, l'essence pour la journée et je suis parti !<br>
 Je m'amuse à voir les enfants aller à l'école, j'avais encore oublié quel jour nous sommes, je pensais que tout le monde était en vacances moi ! J'écoute aussi les locaux, ils parlent plus italien que français, j'ai l'impression. Il y a également plus d'immatriculations italiennes que françaises. Les voitures italiennes se trouvent sans doute quelques kilomètres plus bas, vers Monaco ou Nice.
 
 Le programme est simple aujourd'hui : virages, col, virages, paysages, col, paysages, col, virages. En gros. En quittant Tende, je me retourne pour vérifier la vue, première photo. Je rattrape également les quelques unes que j'ai loupé hier dans les gorges.
