@@ -3,6 +3,10 @@ title: Alpes 2018 - Les copains d'abord
 excerpt: Déjà un air de retour, le retour en ville en passant par Grenoble pour voir les copains me ramène déjà dans un semblant de réalité
 categories: Roadtrip
 tags: [roadtrip, alpes 2018]
+header:
+  teaser: /assets/images/overlays/2018-12-28.jpg
+  overlay_image: /assets/images/overlays/2018-12-28.jpg
+  og_image: /assets/images/overlays/2018-12-28.jpg
 
 departure:
     - url: assets/images/posts/2018-12-28/le-guil.jpg
