@@ -1,21 +1,64 @@
 ---
-title: Alpes 2018 - Jour 4
-excerpt: Jour des copains, déjà la fin
+title: Alpes 2018 - Les copains d'abord
+excerpt: Déjà un air de retour, le retour en ville en passant par Grenoble pour voir les copains me ramène déjà dans un samblanc de réalité
+categories: Roadtrip
+tags: [roadtrip, alpes 2018]
+
+departure:
+    - url: assets/images/posts/2018-12-28/le-guil.jpg
+      image_path: assets/images/posts/2018-12-28/le-guil.jpg
+      alt: "Le Guil"
+      title: "Le Guil"
+    - url: assets/images/posts/2018-12-28/le-guil-back.jpg
+      image_path: assets/images/posts/2018-12-28/le-guil-back.jpg
+      alt: "Le Guil"
+      title: "Le Guil"
+    - url: assets/images/posts/2018-12-28/izoard-land.jpg
+      image_path: assets/images/posts/2018-12-28/izoard-land.jpg
+      alt: "Plaine d'Izoard"
+      title: "Plaine d'Izoard"
+
+izoard:
+    - url: assets/images/posts/2018-12-28/izoard-pass-1.jpg
+      image_path: assets/images/posts/2018-12-28/izoard-pass-1.jpg
+      alt: "Montée d'Izoard"
+      title: "Montée d'Izoard"
+    - url: assets/images/posts/2018-12-28/izoard-pass-2.jpg
+      image_path: assets/images/posts/2018-12-28/izoard-pass-2.jpg
+      alt: "Montée d'Izoard"
+      title: "Montée d'Izoard"
+    - url: assets/images/posts/2018-12-28/izoard-arrival.jpg
+      image_path: assets/images/posts/2018-12-28/izoard-arrival.jpg
+      alt: "Arrivée au Col d'Izoard"
+      title: "Arrivée au Col d'Izoard"
 ---
 
-11/09/2018, départ 7h50, odo 73379
+Toujours sur le même rythme de levé tôt, autour des huit heures, je plie le campement et je me trouve une boulangerie pour le petit dej, j'avoue que j'ai déjà eu mieux comme boulangerie... Pas de picnic pour cette fois-ci, je mangerai en ville à Grenoble avec les copains !
+Je me renseigne sur les temps de parcours, pour Izoard puis Grenoble, plus court que ce que j'imaginais !
 
-Petit déj xepress dans une toute petite boulangerie, pas de pic nic aujourd'hui on mange en ville ! On se renseigne sur les temps de trajets jusqu'au col suivant, bien plus proche que mon estimation ainsi que pour Grenoble et top départ.
+{% include gallery id="departure" %}
 
-Ça caille pas mal bien, même par rapport à hier à 22h où il faisait encore bon, j'avais pas encore eu ça le matin.
-Montée au col d'Izoard. Les gorges qui le précèdent sont top méga bien ! Il reste encore quelques irondelles ou je ne sais quel oiseau qui nichent sur les paroies.
-La montée du col est géniale mais plutôt froid donc plutôt difficile de maitriser les doigts sur les commandes et d'être souple pour bien rouler. Le bonhomme qui m'a dépassé avec sa KTM 1190 avait l'air d'avoir plutôt chaud lui par contre.
-Arrivé en haut, j'étais quasiment tout seul. En même temps à cette heure un mardi, ils sont certainement au boulot. Sauf les allemands et les hollandais. Mais un bus arrive, avec des élèves, qui vont vers la table d'orientation, vers la quelle j'hésite à me rendre. Il commence à faire meilleur, j'y vais aussi, je vais pas me laisser impressionner par des jeunes de 16/18 ans ! Je me rend compte qu'on capte mieux à 2800m qu'à 2360 aussi… On entend quelques marmottes se réveiller également, elles vont sans doute chercher le pain. Le soleil commence à passer par dessus le sommet et le repère du col est à contre jour. Finalement, j'ai bien fait d'arriver tôt.
-La descente est sympa, quelques épingles au départ avec un super goudron. Les photographes ne sont pas encore là, il fait trop froid et j'ai entendu dire qu'il manque de luminosité.
-LA route est nickel et je m'étonne qu'on arrive à avoir et garder un goudron en bon état à plus de 1500m dans les Alpes et pas en bas dans la vallée… Je veux bien qu'il y ait plus de monde dans la vallée, mais il n'y a pas plus de monde sur la petite route que personne connaît derrière chez toi. C'est peut être ça aussi : personne ne la connaît.
-Roulant jusqu'au col du Lautaret, sans rien d'exceptionnel malgré sa renommée, sans doute plus chez les cyclistes.
-Col du Galibier sur la gauche (enfin, la droite, mais la route qui y mène est à gauche) mais je dois le laisser, Grenoble n'est pas cette direction. Il faudra que je revienne, pas le choix !
-Roulant, comme une route des Alpes jusqu'à Grenoble pour manger avec les collègues, à nouveau sans rien d'exceptionnel une fois un peu sorti des montagnes.
-Une fois parti de Grenoble (vers les 15h tout de même, ils travaillent jamais là bas :wink:), liaison Grenoble - Bourgoin Jallieu d'un ennui mortel, jusqu'à chez mes parents pour 1.5 jour "off". Tu vois l'autoroute ? Bah pareil, mais sur une départementale à 80/70/50 (enfin, c'est ce qu'indiquaient les panneaux en tout cas)
+Ce matin, il fait plus froid que les jours précédents, même par rapport à hier soir. La proximité de la rivilère Le Guil en contre bas doit y être pour quelque chose. Ces gorges sont bien belles d'ailleurs, quelques hirondelles nichent encorent sur les paroies. Les photos ne rendent pas justice une fois de plus, mije dois bien avouer que je ne me suis pas vraiement appliqué pour celles-ci... 
 
-Arrivée vers les 17h, odo 73663
+Je traverse une sorte de plaine avant d'attaquer finalement la montée du Col d'Izoard ! La montée est gé-niale mais le froid me crispe et n'aide pas à manipuler les commandes facilement. Ça ne semble pas être le cas de la 1190 qui vient de me dépasser en revanche. (Je me trouve les excuses que je peux hein...) Le paysage ressemble par endroit une fois de plus aux dolomites, plus par la couleur qu'aux formes des sommets.
+
+{% include gallery id="izoard" %}
+
+J'arrive en haut où la ligne d'arrivée du Tour de France me félicite. Une fois de plus, je suis le premier, en même temps un mardi, tout le monde est au boulot. Sauf les allemands et les hollandais. Un bus arrive, je me suis dit qu'il va être tant de partir mais ce sont des élèves, pour un cours de géologie, ils ont l'air d'être ravis mais il me font repéré la table d'orientation que j'avais loupée et je les rejoins parce que s'ils peuvent y monter, moi aussi. J'ai fait pire ! &#128539; <!-- :stuck_out_tongue: --> Il commence à faire meilleur, j'entend les marmottes qui se lèvent aussi, elles vont certainement chercher le pain...
+
+[![Col d'Izoard](/assets/images/posts/2018-12-28/izoard-monument.jpg)](/assets/images/posts/2018-12-28/izoard-monument.jpg){: title="Col d'Izoard"}
+{: .text-center}
+[![Panorama d'Izoard](/assets/images/posts/2018-12-28/izoard-panorama.jpg)](/assets/images/posts/2018-12-28/izoard-panorama.jpg){: title="Panorama d'Izoard"}
+{: .text-center}
+
+Je reprend finalement mon chemin, il y a deux, trois virages au départ avec du bon goudron. Aucun photographe, il fait trop froid sans doute et j'ai entendu dire qu'il manquait de luminosité lorsque j'ai acheté mes badges "Success unlocked: Col d'Izoard" ainsi que le rattrapage du précédent : "Success unlocked: Col de la Bonnette". &#129332; <!-- prince --> La route est nickel, je m'étonne même qu'on arrive à garder un goudron aussi bon en altitude alors qu'en bas, dans la vallée, il est entre mauvais et pourri... Je veux bien qu'il y ai plus de monde dans la vallée, mais sur la petite route que personne ne connait derrière chez toi... C'est peut être ça, justement : personne ne la connaît.
+
+[![Col du Lautaret](/assets/images/posts/2018-12-28/lautaret-pass.jpg)](/assets/images/posts/2018-12-28/lautaret-pass.jpg){: title="Col du Lautaret"}
+{: .text-center}
+
+Rien de particulier jusqu'au Col du Lautaret plus connnu pour sa flore que pour sa route, ce qui est  confirmé. &#128519; <!-- :innocent: --> Le Col du Galibier ensuite à ma droite, bien que la route y menant parte vers la gauche. Je dois le laisser néammoins, ce n'est pas la route de Grenoble et je commence à ne plus être trop dans les temps. Il faudra revenir, pas le choix. Quelle déception...
+
+Le suite est sans grand intétrêt, roulant comme toutes les routes des Alpes, jusqu'à Grenoble pour manger avec les copains. Ha les tartelettes aux noix grenobloises... Il faut y goûter ! Après ce ravitaillement qui aura duré jusqu'à 15h (pire que dans le sud, les horaires ! &#128521; <!-- :wink: -->) je termine ma route avec 284km supplémentaires pour un jour et demi de "repos" chez mes parents. Pour la route, c'est comme l'autoroute mais à 80, 70 ou 50km/h, d'après les panneaux en tout cas...
+
+[![Teaser](/assets/images/posts/2018-12-28/teaser.jpg)](/assets/images/posts/2018-12-28/teaser.jpg){: title="Teaser"}
+{: .text-center}
