@@ -9,3 +9,11 @@ OsmAnd bien avec une trace GPX mais il indique chaque virage un peu trop fermé 
 En ville, loin d'être au top, plutôt difficile de s'orienter/se repérer…
 
 Jour 1 : 510km
+
+Jour 2 : 296km
+
+Jour 3 : 296km
+
+Jour 4 : 284km
+
+Jour 5 à 7 : 577km
