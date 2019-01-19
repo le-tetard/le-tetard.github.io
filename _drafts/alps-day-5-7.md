@@ -1,6 +1,11 @@
 ---
-title: Alpes 2018 - Jour 5 à 7, fin d'une aventure
-excerpt: Tentative d'off road, copine, revisite
+title: Alpes 2018 - Fin d'une aventure
+excerpt: Quand tu penses finir la semaine tranquillement, que le plus dur est derrière et que finalement, l'aventure se trouve à deux pas de chez toi !
+tags: [roadtrip, alpes 2018]
+header:
+  teaser: /assets/images/overlays/2019-01-20.jpg
+  overlay_image: /assets/images/overlays/2019-01-20.jpg
+  og_image: /assets/images/overlays/2019-01-20.jpg
 offroad:
     - url: assets/images/posts/2019-01-20/under-the-hood.jpg
       image_path: assets/images/posts/2019-01-20/under-the-hood.jpg
