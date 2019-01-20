@@ -2,6 +2,7 @@
 title: Alpes 2018 - Fin d'une aventure
 excerpt: Quand tu penses finir la semaine tranquillement, que le plus dur est derrière et que finalement, l'aventure se trouve à deux pas de chez toi !
 tags: [roadtrip, alpes 2018]
+categories: Roadtrip
 header:
   teaser: /assets/images/overlays/2019-01-20.jpg
   overlay_image: /assets/images/overlays/2019-01-20.jpg
