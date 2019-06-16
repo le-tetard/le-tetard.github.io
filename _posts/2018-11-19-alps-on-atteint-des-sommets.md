@@ -253,7 +253,7 @@ J'arrive finalement au col de Vars, à cause du vent, il est plus frais qu'à la
 
 {% include gallery id="unusual" %}
 
-Arrivé enfin à Guillestre, je fais le plein par sécurité, les stations étant plutôt rares dans le coin, puis le camping : installation et détente, demain c'est Izoard ! Pour la détente, je vais être servi, je recommande [Le Cantinat Fleuri](http://www.catinat-fleuri.com/) dans ce coin : presque tout seul, transat confortables, piscine chauffée (plus ou moins), la tente est dans le verger (les pommes sont excellentes, demandez tout de même, ils en font la cueillette).<br>ù
+Arrivé enfin à Guillestre, je fais le plein par sécurité, les stations étant plutôt rares dans le coin, puis le camping : installation et détente, demain c'est Izoard ! Pour la détente, je vais être servi, je recommande [Le Cantinat Fleuri](http://www.catinat-fleuri.com/) dans ce coin : presque tout seul, transat confortables, piscine chauffée (plus ou moins), la tente est dans le verger (les pommes sont excellentes, demandez tout de même, ils en font la cueillette).<br>
 Une fois la petite baignade bien méritée, la discussion avec mon hôte m'a permis d'obtenir une nouvelle adresse : [Le Regain](http://leregain.lafourchette.rest/). La carte propose un choix plutôt difficile ainsi qu'une suggestion de vin : aujourd'hui c'était Grain de Glace, de Saint-Tropez, je recommande. Les plats sont préparés quasiment devant toi, c'est un régal de voir l'équipe travailler ! Ici on se régale les papilles et les yeux ! Je vous recommande la pizza _Campione_, au feu de bois, s'il vous plaît ! &#128525; <!-- :heart_eyes: --><br>
 
 {% include gallery id="guillestre" %}

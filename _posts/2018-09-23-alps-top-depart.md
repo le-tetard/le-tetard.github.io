@@ -73,7 +73,7 @@ Pas de chance cette fois ci, il y a le marché, impossible d'y accéder en moto.
 
 {% include gallery id="ridge_road" %}
 
-À partir de là, je vais vers de l'inconnu. Du non pratiqu mais le téléphone n'arrive pas à charger, surchauffe et  me coupe la charge ainsi que OsmAnd, qui me sert à suivre ma trace. Donc je galère avec mon téléphone principal à le sortir/ranger pour me mettre sur la bonne voie. Une fois dessus, je me régale, ça tourne juste ce qu'il faut, c'est roulant et je loupe mon changement de direction. Je suivais une ER5 qui roulait bien, au bon rythme et je me suis laissé entraîné ! L'embranchement étant plutôt petit, j'ai dû faire un second demi tour pour réussir à le prendre !
+À partir de là, je vais vers de l'inconnu. Du non pratiqué mais le téléphone n'arrive pas à charger, surchauffe et  me coupe la charge ainsi que OsmAnd, qui me sert à suivre ma trace. Donc je galère avec mon téléphone principal à le sortir/ranger pour me mettre sur la bonne voie. Une fois dessus, je me régale, ça tourne juste ce qu'il faut, c'est roulant et je loupe mon changement de direction. Je suivais une ER5 qui roulait bien, au bon rythme et je me suis laissé entraîné ! L'embranchement étant plutôt petit, j'ai dû faire un second demi tour pour réussir à le prendre !
 
 [![Embranchement difficile à trouver](/assets/images/posts/2018-09-23/hard-junction.jpg)](/assets/images/posts/2018-09-23/hard-junction.jpg){: title="Pas facile à trouver malgré les apparence de la photo !"}
 {: .text-center}
