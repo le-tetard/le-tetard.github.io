@@ -5,7 +5,7 @@ tags: [roadtrip, croatie 2019]
 categories: Roadtrip
 
 header:
-  teaser: /assets/images/overlays/photo 12.jpg
+  teaser: /assets/images/overlays/2019-08-03.jpg
   overlay_image: /assets/images/overlays/2019-08-03.jpg
   og_image: /assets/images/overlays/2019-08-03.jpg
 
