@@ -58,14 +58,17 @@ Comment alors arriver à se faire plaisir tout en évitant la monotonie des rout
 
 ## Première partie : randonnée découverte
 
-J'ai découpé mon trajet en deux, Montpellier - Lyon par le Vercors, bien qu'envisageable en été, est un peu plus compliqué
-à réaliser en hiver. Question de météo, de température et je n'aime pas rouler de nuit l'hiver. Cela laissera aussi la possibilité
+J'ai découpé mon trajet en deux. Bien qu'envisageable en été, Montpellier - Lyon par le Vercor, est un peu plus compliqué
+à réaliser en hiver. Question de météo, de température et je n'aime pas rouler de nuit à cette saison. Cela laissera aussi la possibilité
 de découvrir un peu les altentours.
 
 Première étape donc : Montpellier - Bagnols-sur-Cèze, j'en profiterai pour découvrir une petite randonnée : les
 [capitelles de Saussines](https://www.visorando.com/randonnee-circuit-des-capitelles-de-saussines/), que je recommande.
 
 {% include gallery id="capitelles" %}
+
+Les capitelles sont des petites cabanes en pierre trouvées dans les champs où, vraisemblablement les paysaons se régugiaient
+en cas d'intempéries ou stockaient quelques denrées.
 
 ## Seconde partie : les aventures
 
@@ -75,20 +78,21 @@ faite effacée par le trajet retour. &#128546; <!-- cry -->
 
 [![Lieu inconnu](/assets/images/posts/2020-01-12/unknown-location.jpg)](/assets/images/posts/2020-01-12/unknown-location.jpg){: .align-center}{: title="Lieu inconnu"}
 
-Puis arrive le moment tant attendu : Die. Avec des nuages plutôt chargés sur le col de Rousset. Ho et ça ne serait pas un
+Arrive le moment tant attendu : Die et le col de Rousset dans les nuages. Ho et ça ne serait pas un
 chasse neige que je viens de croiser ? Il a l'air d'avoir servi en plus. PAR-FAIT ! *(Ceci n'est pas ironique, j'ai la méga
-babane dans le casque que j'en oublie presque de faire le plein et trouver à manger)*
+banane dans le casque que j'en oublie presque de faire le plein et trouver à manger)*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22641.006021968195!2d5.374047630658137!3d44.819002703928206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x12cab5e36cfe0abb%3A0xdc4edbe4081ca082!2sChamaloc!3m2!1d44.79882!2d5.3836699999999995!4m5!1s0x12caca873238d22b%3A0x32e8ae2b5b352aee!2sCol%20de%20Rousset%2C%2026150%20Chamaloc!3m2!1d44.8369444!2d5.3994444!5e0!3m2!1sfr!2sfr!4v1578842776892!5m2!1sfr!2sfr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*Si tu ne connais pas ce col, voici à quoi il ressemble.*
 
 Plutôt au sec pour le moment, cela ne durera pas... Après qu'un camion m'ait laissé passer, je suis contraint de m'arrêter et enfiler
-la combinaison de pluie que je ne quitterai plus. Un peu plus haut, cette pluie s'est transformée en neige. Et qui tient en plus !
+la combinaison de pluie que je ne quitterai plus. Il a dû bien rire ! Un peu plus haut, cette pluie s'est transformée en neige. Et qui tient en plus !
 Réduction de vitesse oblige, je roule dans les traces des voitures, ce qui n'empêchera pas quelques petits serrages de fesses. &#128561; <!-- fear -->
 Et enfin, le sommet. Évidemment, la vue est bouchée mais je suis où je dois être et encore mieux que ce que j'ai imaginé !
 
 {% include gallery id="rousset" %}
 
-Passé le tunnel, je me retrouve officiellement dans le Vercors. Mais la neige est toujours présente et je dois faire face à un choix :
+Passé le tunnel, je me retrouve officiellement dans le Vercors. Mais la neige est toujours présente et je fais face à un choix :
 la route de gauche, que je dois prendre, qui a l'air de remonter et déjà bien enneigée et la route de droite, dont je me souviens bien,
 qui descend et qui ne devrait plus avoir de neige d'ici peu. La raison m'a dit route de droite, après vérification du GPS,
 les routes divergent et ne se retrouvent jamais. Petit demi tour et direction la route qui ne me rassure pas trop. Heureusement,
