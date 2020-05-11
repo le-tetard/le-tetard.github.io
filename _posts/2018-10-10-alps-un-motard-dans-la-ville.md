@@ -2,6 +2,7 @@
 title: Alpes 2018 - Un motard dans la ville
 excerpt: De Saint-Tropez à Tende, une ville quasi ininterrompue. <br>Les paysages sont là pour compenser !
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/alpes-2018-un-motard-dans-la-ville/
 tags: [roadtrip, alpes 2018]
 header:
   teaser: /assets/images/overlays/2018-10-10.jpg

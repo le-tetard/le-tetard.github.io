@@ -3,6 +3,7 @@ title: Aventures du père Noël
 excerpt: Comment sublimer les routes connues en plein hiver et comment se retrouver à jouer les aventuriers au beau milieu du vercors un 23 décembre ?
 tags: [noel, vacances]
 categories: Vacances
+redirect_to: https://moto.f-pa.site/aventures-du-pere-noel/
 
 header:
   teaser: /assets/images/overlays/2020-01-12.jpg

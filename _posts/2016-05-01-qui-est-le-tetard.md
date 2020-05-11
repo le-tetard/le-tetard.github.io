@@ -1,6 +1,7 @@
 ---
 title: Qui est le Têtard ?
 excerpt: "Présentation du têtard, un jeune motard passionné depuis quelques années qui souhaiterait exposer sa vision de la moto et partager l'expérience acquise en partant de zéro."
+redirect_to: https://moto.f-pa.site/qui-est-le-tetard/
 ---
 
 ## Présentation

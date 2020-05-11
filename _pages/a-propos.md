@@ -4,6 +4,7 @@ excerpt: "À propos du têtard"
 permalink: /a-propos.html
 author_profile: true
 nav: machin
+redirect_to: https://moto.f-pa.site/le-tetard/
 ---
 
 ## Présentation

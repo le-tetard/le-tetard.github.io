@@ -3,6 +3,7 @@ title: Croatie 2019 - Traversée de la Toscane
 excerpt: Long ruban de bitume parsemé de voitures obstables
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-traversee-de-la-toscane/
 
 header:
   teaser: /assets/images/overlays/2019-08-03.jpg

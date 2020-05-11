@@ -3,6 +3,7 @@ title: Croatie 2019 - Tout droit jusqu'au matin
 excerpt: Deux jours de ligne droite pour traverser l'Italie puis pour rallier Montpellier. Deux jours presque interminables !
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-tout-droit-jusqu-au-matin/
 
 header:
   teaser: /assets/images/overlays/2019-09-28.jpg

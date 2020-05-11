@@ -3,6 +3,7 @@ title: Croatie 2019 - Last but not least
 excerpt: Dernier jour en Croatie et derniers kilomètres. Nous allons passer la journée la plus nature du séjour ! Et une des plus fatigante.
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-last-but-not-least/
 
 header:
   teaser: /assets/images/overlays/2019-09-21.jpg

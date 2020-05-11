@@ -1,6 +1,7 @@
 ---
 title: Alpes 2018 - On atteint des sommets !
 excerpt: L'apogée du voyage, aujourd'hui tout est en grand, des paysages aux massifs, en passant par les vallées.
+redirect_to: https://moto.f-pa.site/alpes-2018-on-atteint-les-sommets/
 categories: Roadtrip
 tags: [roadtrip, alpes 2018]
 header:

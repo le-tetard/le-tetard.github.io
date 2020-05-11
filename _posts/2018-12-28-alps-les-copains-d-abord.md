@@ -1,6 +1,7 @@
 ---
 title: Alpes 2018 - Les copains d'abord
 excerpt: Déjà un air de retour, le retour en ville en passant par Grenoble pour voir les copains me ramène déjà dans un semblant de réalité
+redirect_to: https://moto.f-pa.site/alpes-2018-les-copains-d-abord/
 categories: Roadtrip
 tags: [roadtrip, alpes 2018]
 header:

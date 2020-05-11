@@ -3,6 +3,7 @@ title: Croatie 2019 - Into the wild
 excerpt: Ce sixième jour de vacances, troisième en croatie, est putôt sportif. Randonnée au programme !
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-into-the-wild/
 
 header:
   teaser: /assets/images/overlays/2019-09-14.jpg

@@ -2,6 +2,7 @@
 title: Alpes 2018 - Top départ
 excerpt: De Montpellier à Saint Tropez. Quelques lignes droites pour mieux apprécier les virages, avant de finir à la gendarmerie.
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/alpes-2018-top-depart/
 tags: [roadtrip, alpes 2018]
 header:
   teaser: /assets/images/overlays/2018-09-23.jpg

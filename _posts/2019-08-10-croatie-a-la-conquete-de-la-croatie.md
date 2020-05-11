@@ -3,6 +3,7 @@ title: Croatie 2019 - À la conquête de la Croatie
 excerpt: Trois épuisants bateaux plus tard, nous posons enfin les roues à terre, en Croatie ! 
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-a-la-conquete-de-la-croatie/
 
 header:
   teaser: /assets/images/overlays/2019-08-10.jpg

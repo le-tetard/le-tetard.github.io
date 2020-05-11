@@ -1,6 +1,7 @@
 ---
 title: Alpes 2018 - Fin d'une aventure
 excerpt: Quand tu penses finir la semaine tranquillement, que le plus dur est derrière et que finalement, l'aventure se trouve à deux pas de chez toi !
+redirect_to: https://moto.f-pa.site/alpes-2018-fin-dune-aventure/
 tags: [roadtrip, alpes 2018]
 categories: Roadtrip
 header:

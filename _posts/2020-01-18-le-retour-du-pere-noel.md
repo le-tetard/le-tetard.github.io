@@ -3,6 +3,7 @@ title: Le retour du père Noël
 excerpt: Une fois mission accomplie et le traineau plus ou moins allégé, il est temps de rentrer. Une fois de plus, en évitant les routes habituelles.
 tags: [noel, vacances]
 categories: Vacances
+redirect_to: https://moto.f-pa.site/le-retour-du-pere-noel/
 
 header:
   teaser: /assets/images/overlays/2020-01-18.jpg

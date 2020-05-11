@@ -1,6 +1,7 @@
 ---
 title: Pourquoi tombons nous ?
 excerpt: "Il paraît qu'un motard qui n'est jamais tombé n'est pas un vrai motard. Pourquoi tant de haine ? Et est-ce uniquement une question de chute ?"
+redirect_to: https://moto.f-pa.site/pourquoi-tombons-nous/
 
 bike:
     - url: assets/images/posts/2016-06-30/cale-pied-av.jpg

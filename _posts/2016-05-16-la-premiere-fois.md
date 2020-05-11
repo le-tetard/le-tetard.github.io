@@ -1,6 +1,7 @@
 ---
 title: La première fois
 excerpt: "La première balade que tu organises, c'est toujours le grand n'importe quoi. Même quand tu as bien écouté toutes les recommandations !"
+redirect_to: https://moto.f-pa.site/la-premiere-fois/
 ---
 
 La première fois que tu organises une balade, tu te dis que tout va bien se passer,

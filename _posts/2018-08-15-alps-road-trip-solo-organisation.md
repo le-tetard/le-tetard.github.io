@@ -3,6 +3,7 @@ title: Alpes 2018 - Organisation d'un road trip solo
 excerpt: "Mon premier road trip dans les Alpes, en solo avec une tente, un sac de couchage, de quoi manger à peu près et trois affaires. Première partie, le road."
 categories: Roadtrip
 tags: [roadtrip, alpes 2018]
+redirect_to: https://moto.f-pa.site/alpes-2018-organisation-d-un-road-trip-solo/
 header:
   teaser: /assets/images/overlays/mountain-trip-alps.jpg
   overlay_image: /assets/images/overlays/mountain-trip-alps.jpg

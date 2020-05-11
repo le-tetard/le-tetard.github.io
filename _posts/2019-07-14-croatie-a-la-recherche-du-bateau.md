@@ -1,6 +1,7 @@
 ---
 title: Croatie 2019 - À la recherche du bateau
 excerpt: Nouvelle année, nouvelles aventures. La première nous amène en Croatie. Celle-ci commence dès les rues de Marseille. Et ce n'est que le début !
+redirect_to: https://moto.f-pa.site/croatie-2019-a-la-recherche-du-bateau/
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
 header:

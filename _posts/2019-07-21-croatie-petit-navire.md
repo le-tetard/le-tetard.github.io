@@ -3,6 +3,7 @@ title: Croatie 2019 - Petit navire
 excerpt: Après avoir trouvé le port, nous allons enchaîner trois bateau épuisants. 
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-petit-navire/
 
 header:
   teaser: /assets/images/overlays/2019-07-21.jpg

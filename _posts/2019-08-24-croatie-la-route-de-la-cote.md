@@ -3,6 +3,7 @@ title: Croatie 2019 - La route de la côte
 excerpt: Des paysages très variés sur cette remontée ainsi que des routes mémorables !
 tags: [roadtrip, croatie 2019]
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/croatie-2019-la-route-de-la-cote/
 
 header:
   teaser: /assets/images/overlays/2019-08-24.jpg

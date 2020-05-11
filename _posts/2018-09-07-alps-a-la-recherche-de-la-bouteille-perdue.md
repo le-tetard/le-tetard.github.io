@@ -2,6 +2,7 @@
 title: Alpes 2018 - À la recherche de la bouteille perdue
 excerpt: "L'organisation à l'arrache, c'est ce qui était prévue. Jusque là j'en n'avais pas trop l'impression. Le road était prêt, je savais où je dormais à peu près et ce que je mangeais à peu près aussi. Mais ça, c'était avant."
 categories: Roadtrip
+redirect_to: https://moto.f-pa.site/alpes-2018-a-la-recherche-de-la-bouteille-perdue/
 tags: [roadtrip, alpes 2018]
 header:
   teaser: /assets/images/overlays/finger-lighter.jpg
